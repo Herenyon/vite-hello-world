@@ -1,8 +1,8 @@
 <script setup>
-
+import imageUrl from '../assets/meme.jpg'
 
 defineProps({
-    msg: String,
+    
 })
 
 
@@ -10,7 +10,7 @@ defineProps({
 
 <template>
     <div class="container-jumbo">
-        <h1 class="jumbotron">{{ msg }}</h1>
+       <img :src="imageUrl" alt=""> 
     </div>
 </template>
 

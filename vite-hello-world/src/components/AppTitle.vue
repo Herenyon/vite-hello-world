@@ -10,7 +10,7 @@ defineProps({
 
 <template>
   <div class="container-jumbo">
-  <h1 >{{ msg }}</h1>
+  <h1 class="jumbotron">{{ msg }}</h1>
   </div>
   
 </template>

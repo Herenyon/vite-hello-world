@@ -6,6 +6,6 @@ import AppHero from './components/AppHero.vue'
 <template>
   
   <AppTitle msg="La mia prima app con Vite" />
-  <AppHero msg="jumbotron"/>
+  <AppHero/>
 </template>
 
