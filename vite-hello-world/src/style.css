@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.jumbotron {
+
+    background-color: lightgrey;
+    padding: 50px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.container-jumbo{
+
+    /* display: flex; */
+    text-align: center;
+    
+}

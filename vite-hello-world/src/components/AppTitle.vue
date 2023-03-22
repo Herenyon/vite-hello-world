@@ -9,8 +9,9 @@ defineProps({
 </script>
 
 <template>
-  <h1>{{ msg }}</h1>
-
+  <div class="container-jumbo">
+  <h1 >{{ msg }}</h1>
+  </div>
   
 </template>
 
